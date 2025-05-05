@@ -1,0 +1,3602 @@
+[
+  {
+    "product_code": "IROORELUM-001",
+    "batch_id": "BATCH-0001",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 99.15,
+      "impurities": {
+        "Fe": "0.185%",
+        "Pb": "0.007%"
+      }
+    },
+    "carbon_footprint": "12.07 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "FERMAG-002",
+    "batch_id": "BATCH-0002",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 98.38,
+      "impurities": {
+        "Fe": "0.04%",
+        "Pb": "0.038%"
+      }
+    },
+    "carbon_footprint": "20.18 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-003",
+    "batch_id": "BATCH-0003",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 96.76,
+      "impurities": {
+        "Fe": "0.058%",
+        "Pb": "0.047%"
+      }
+    },
+    "carbon_footprint": "17.8 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-004",
+    "batch_id": "BATCH-0004",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 96.88,
+      "impurities": {
+        "Fe": "0.079%",
+        "Pb": "0.002%"
+      }
+    },
+    "carbon_footprint": "22.43 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-005",
+    "batch_id": "BATCH-0005",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 97.02,
+      "impurities": {
+        "Fe": "0.042%",
+        "Pb": "0.039%"
+      }
+    },
+    "carbon_footprint": "24.57 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-006",
+    "batch_id": "BATCH-0006",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 96.97,
+      "impurities": {
+        "Fe": "0.137%",
+        "Pb": "0.032%"
+      }
+    },
+    "carbon_footprint": "11.32 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "TEROXI-007",
+    "batch_id": "BATCH-0007",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 96.12,
+      "impurities": {
+        "Fe": "0.123%",
+        "Pb": "0.023%"
+      }
+    },
+    "carbon_footprint": "14.34 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "FERMAG-008",
+    "batch_id": "BATCH-0008",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 96.65,
+      "impurities": {
+        "Fe": "0.046%",
+        "Pb": "0.042%"
+      }
+    },
+    "carbon_footprint": "21.7 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-009",
+    "batch_id": "BATCH-0009",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 98.83,
+      "impurities": {
+        "Fe": "0.126%",
+        "Pb": "0.026%"
+      }
+    },
+    "carbon_footprint": "11.57 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "DYSMET-010",
+    "batch_id": "BATCH-0010",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 95.45,
+      "impurities": {
+        "Fe": "0.056%",
+        "Pb": "0.032%"
+      }
+    },
+    "carbon_footprint": "14.23 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "TITSPO-011",
+    "batch_id": "BATCH-0011",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 98.46,
+      "impurities": {
+        "Fe": "0.06%",
+        "Pb": "0.027%"
+      }
+    },
+    "carbon_footprint": "14.68 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "DYSMET-012",
+    "batch_id": "BATCH-0012",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 99.22,
+      "impurities": {
+        "Fe": "0.018%",
+        "Pb": "0.031%"
+      }
+    },
+    "carbon_footprint": "24.58 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "FERALL-013",
+    "batch_id": "BATCH-0013",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 98.1,
+      "impurities": {
+        "Fe": "0.063%",
+        "Pb": "0.008%"
+      }
+    },
+    "carbon_footprint": "14.9 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "TEROXI-014",
+    "batch_id": "BATCH-0014",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 98.71,
+      "impurities": {
+        "Fe": "0.152%",
+        "Pb": "0.023%"
+      }
+    },
+    "carbon_footprint": "11.87 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "FERALL-015",
+    "batch_id": "BATCH-0015",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 97.7,
+      "impurities": {
+        "Fe": "0.023%",
+        "Pb": "0.007%"
+      }
+    },
+    "carbon_footprint": "16.69 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "FERALL-016",
+    "batch_id": "BATCH-0016",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 96.09,
+      "impurities": {
+        "Fe": "0.173%",
+        "Pb": "0.045%"
+      }
+    },
+    "carbon_footprint": "17.38 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-017",
+    "batch_id": "BATCH-0017",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 97.07,
+      "impurities": {
+        "Fe": "0.19%",
+        "Pb": "0.038%"
+      }
+    },
+    "carbon_footprint": "15.97 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERALL-018",
+    "batch_id": "BATCH-0018",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 96.61,
+      "impurities": {
+        "Fe": "0.081%",
+        "Pb": "0.031%"
+      }
+    },
+    "carbon_footprint": "17.48 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-019",
+    "batch_id": "BATCH-0019",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 99.44,
+      "impurities": {
+        "Fe": "0.142%",
+        "Pb": "0.015%"
+      }
+    },
+    "carbon_footprint": "20.32 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-020",
+    "batch_id": "BATCH-0020",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 97.97,
+      "impurities": {
+        "Fe": "0.197%",
+        "Pb": "0.025%"
+      }
+    },
+    "carbon_footprint": "19.64 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "DYSMET-021",
+    "batch_id": "BATCH-0021",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 96.8,
+      "impurities": {
+        "Fe": "0.101%",
+        "Pb": "0.02%"
+      }
+    },
+    "carbon_footprint": "17.72 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-022",
+    "batch_id": "BATCH-0022",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 95.81,
+      "impurities": {
+        "Fe": "0.102%",
+        "Pb": "0.037%"
+      }
+    },
+    "carbon_footprint": "23.25 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-023",
+    "batch_id": "BATCH-0023",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 95.11,
+      "impurities": {
+        "Fe": "0.115%",
+        "Pb": "0.042%"
+      }
+    },
+    "carbon_footprint": "22.07 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-024",
+    "batch_id": "BATCH-0024",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 99.91,
+      "impurities": {
+        "Fe": "0.154%",
+        "Pb": "0.001%"
+      }
+    },
+    "carbon_footprint": "13.86 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "MAG-025",
+    "batch_id": "BATCH-0025",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 98.82,
+      "impurities": {
+        "Fe": "0.174%",
+        "Pb": "0.045%"
+      }
+    },
+    "carbon_footprint": "19.08 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-026",
+    "batch_id": "BATCH-0026",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 97.58,
+      "impurities": {
+        "Fe": "0.046%",
+        "Pb": "0.032%"
+      }
+    },
+    "carbon_footprint": "11.61 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "MAG-027",
+    "batch_id": "BATCH-0027",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 98.08,
+      "impurities": {
+        "Fe": "0.075%",
+        "Pb": "0.025%"
+      }
+    },
+    "carbon_footprint": "16.42 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-028",
+    "batch_id": "BATCH-0028",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 97.96,
+      "impurities": {
+        "Fe": "0.025%",
+        "Pb": "0.035%"
+      }
+    },
+    "carbon_footprint": "18.31 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-029",
+    "batch_id": "BATCH-0029",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 96.8,
+      "impurities": {
+        "Fe": "0.099%",
+        "Pb": "0.013%"
+      }
+    },
+    "carbon_footprint": "24.15 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-030",
+    "batch_id": "BATCH-0030",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 99.3,
+      "impurities": {
+        "Fe": "0.064%",
+        "Pb": "0.033%"
+      }
+    },
+    "carbon_footprint": "18.07 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "FERALL-031",
+    "batch_id": "BATCH-0031",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 98.99,
+      "impurities": {
+        "Fe": "0.19%",
+        "Pb": "0.021%"
+      }
+    },
+    "carbon_footprint": "21.44 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "MAG-032",
+    "batch_id": "BATCH-0032",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 95.67,
+      "impurities": {
+        "Fe": "0.107%",
+        "Pb": "0.032%"
+      }
+    },
+    "carbon_footprint": "15.6 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-033",
+    "batch_id": "BATCH-0033",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 95.42,
+      "impurities": {
+        "Fe": "0.06%",
+        "Pb": "0.034%"
+      }
+    },
+    "carbon_footprint": "16.24 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "MAG-034",
+    "batch_id": "BATCH-0034",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 95.18,
+      "impurities": {
+        "Fe": "0.197%",
+        "Pb": "0.005%"
+      }
+    },
+    "carbon_footprint": "16.32 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "TEROXI-035",
+    "batch_id": "BATCH-0035",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 95.17,
+      "impurities": {
+        "Fe": "0.152%",
+        "Pb": "0.033%"
+      }
+    },
+    "carbon_footprint": "17.87 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-036",
+    "batch_id": "BATCH-0036",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 99.94,
+      "impurities": {
+        "Fe": "0.126%",
+        "Pb": "0.005%"
+      }
+    },
+    "carbon_footprint": "18.45 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-037",
+    "batch_id": "BATCH-0037",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 97.76,
+      "impurities": {
+        "Fe": "0.113%",
+        "Pb": "0.045%"
+      }
+    },
+    "carbon_footprint": "14.7 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-038",
+    "batch_id": "BATCH-0038",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 96.99,
+      "impurities": {
+        "Fe": "0.084%",
+        "Pb": "0.046%"
+      }
+    },
+    "carbon_footprint": "17.9 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-039",
+    "batch_id": "BATCH-0039",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 98.95,
+      "impurities": {
+        "Fe": "0.146%",
+        "Pb": "0.025%"
+      }
+    },
+    "carbon_footprint": "13.74 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "FERALL-040",
+    "batch_id": "BATCH-0040",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 99.62,
+      "impurities": {
+        "Fe": "0.162%",
+        "Pb": "0.002%"
+      }
+    },
+    "carbon_footprint": "18.71 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-041",
+    "batch_id": "BATCH-0041",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 97.97,
+      "impurities": {
+        "Fe": "0.057%",
+        "Pb": "0.033%"
+      }
+    },
+    "carbon_footprint": "14.49 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "TITSPO-042",
+    "batch_id": "BATCH-0042",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 97.08,
+      "impurities": {
+        "Fe": "0.141%",
+        "Pb": "0.023%"
+      }
+    },
+    "carbon_footprint": "12.26 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-043",
+    "batch_id": "BATCH-0043",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 97.07,
+      "impurities": {
+        "Fe": "0.015%",
+        "Pb": "0.001%"
+      }
+    },
+    "carbon_footprint": "11.92 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "MAG-044",
+    "batch_id": "BATCH-0044",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 96.44,
+      "impurities": {
+        "Fe": "0.197%",
+        "Pb": "0.029%"
+      }
+    },
+    "carbon_footprint": "20.37 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "MAG-045",
+    "batch_id": "BATCH-0045",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 96.54,
+      "impurities": {
+        "Fe": "0.058%",
+        "Pb": "0.042%"
+      }
+    },
+    "carbon_footprint": "12.46 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-046",
+    "batch_id": "BATCH-0046",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 98.83,
+      "impurities": {
+        "Fe": "0.075%",
+        "Pb": "0.013%"
+      }
+    },
+    "carbon_footprint": "24.29 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-047",
+    "batch_id": "BATCH-0047",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 97.63,
+      "impurities": {
+        "Fe": "0.173%",
+        "Pb": "0.003%"
+      }
+    },
+    "carbon_footprint": "21.18 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-048",
+    "batch_id": "BATCH-0048",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 97.77,
+      "impurities": {
+        "Fe": "0.154%",
+        "Pb": "0.045%"
+      }
+    },
+    "carbon_footprint": "13.32 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "MAG-049",
+    "batch_id": "BATCH-0049",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 99.87,
+      "impurities": {
+        "Fe": "0.149%",
+        "Pb": "0.021%"
+      }
+    },
+    "carbon_footprint": "18.63 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-050",
+    "batch_id": "BATCH-0050",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 99.15,
+      "impurities": {
+        "Fe": "0.18%",
+        "Pb": "0.047%"
+      }
+    },
+    "carbon_footprint": "18.81 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-051",
+    "batch_id": "BATCH-0051",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 97.28,
+      "impurities": {
+        "Fe": "0.132%",
+        "Pb": "0.048%"
+      }
+    },
+    "carbon_footprint": "19.98 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-052",
+    "batch_id": "BATCH-0052",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 96.89,
+      "impurities": {
+        "Fe": "0.01%",
+        "Pb": "0.039%"
+      }
+    },
+    "carbon_footprint": "16.32 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "MAG-053",
+    "batch_id": "BATCH-0053",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 96.18,
+      "impurities": {
+        "Fe": "0.128%",
+        "Pb": "0.031%"
+      }
+    },
+    "carbon_footprint": "18.57 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-054",
+    "batch_id": "BATCH-0054",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 98.61,
+      "impurities": {
+        "Fe": "0.041%",
+        "Pb": "0.037%"
+      }
+    },
+    "carbon_footprint": "24.85 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "FERALL-055",
+    "batch_id": "BATCH-0055",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 95.08,
+      "impurities": {
+        "Fe": "0.03%",
+        "Pb": "0.043%"
+      }
+    },
+    "carbon_footprint": "14.72 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "DYSMET-056",
+    "batch_id": "BATCH-0056",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 98.59,
+      "impurities": {
+        "Fe": "0.018%",
+        "Pb": "0.01%"
+      }
+    },
+    "carbon_footprint": "13.81 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-057",
+    "batch_id": "BATCH-0057",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 95.93,
+      "impurities": {
+        "Fe": "0.126%",
+        "Pb": "0.009%"
+      }
+    },
+    "carbon_footprint": "15.68 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-058",
+    "batch_id": "BATCH-0058",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 99.68,
+      "impurities": {
+        "Fe": "0.169%",
+        "Pb": "0.048%"
+      }
+    },
+    "carbon_footprint": "10.1 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-059",
+    "batch_id": "BATCH-0059",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 95.18,
+      "impurities": {
+        "Fe": "0.19%",
+        "Pb": "0.024%"
+      }
+    },
+    "carbon_footprint": "23.57 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "FERALL-060",
+    "batch_id": "BATCH-0060",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 98.35,
+      "impurities": {
+        "Fe": "0.162%",
+        "Pb": "0.003%"
+      }
+    },
+    "carbon_footprint": "15.76 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-061",
+    "batch_id": "BATCH-0061",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 96.7,
+      "impurities": {
+        "Fe": "0.048%",
+        "Pb": "0.029%"
+      }
+    },
+    "carbon_footprint": "24.27 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "DYSMET-062",
+    "batch_id": "BATCH-0062",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 97.62,
+      "impurities": {
+        "Fe": "0.104%",
+        "Pb": "0.025%"
+      }
+    },
+    "carbon_footprint": "20.53 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "DYSMET-063",
+    "batch_id": "BATCH-0063",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 99.24,
+      "impurities": {
+        "Fe": "0.095%",
+        "Pb": "0.03%"
+      }
+    },
+    "carbon_footprint": "20.6 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-064",
+    "batch_id": "BATCH-0064",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 98.24,
+      "impurities": {
+        "Fe": "0.1%",
+        "Pb": "0.009%"
+      }
+    },
+    "carbon_footprint": "21.01 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-065",
+    "batch_id": "BATCH-0065",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 95.34,
+      "impurities": {
+        "Fe": "0.038%",
+        "Pb": "0.002%"
+      }
+    },
+    "carbon_footprint": "21.28 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "TITSPO-066",
+    "batch_id": "BATCH-0066",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 97.83,
+      "impurities": {
+        "Fe": "0.188%",
+        "Pb": "0.005%"
+      }
+    },
+    "carbon_footprint": "14.95 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-067",
+    "batch_id": "BATCH-0067",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 99.68,
+      "impurities": {
+        "Fe": "0.176%",
+        "Pb": "0.031%"
+      }
+    },
+    "carbon_footprint": "16.31 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "FERALL-068",
+    "batch_id": "BATCH-0068",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 98.18,
+      "impurities": {
+        "Fe": "0.198%",
+        "Pb": "0.011%"
+      }
+    },
+    "carbon_footprint": "11.08 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-069",
+    "batch_id": "BATCH-0069",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 95.14,
+      "impurities": {
+        "Fe": "0.07%",
+        "Pb": "0.014%"
+      }
+    },
+    "carbon_footprint": "14.06 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "MAG-070",
+    "batch_id": "BATCH-0070",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 96.76,
+      "impurities": {
+        "Fe": "0.103%",
+        "Pb": "0.042%"
+      }
+    },
+    "carbon_footprint": "10.63 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-071",
+    "batch_id": "BATCH-0071",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 97.47,
+      "impurities": {
+        "Fe": "0.033%",
+        "Pb": "0.022%"
+      }
+    },
+    "carbon_footprint": "20.08 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-072",
+    "batch_id": "BATCH-0072",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 99.35,
+      "impurities": {
+        "Fe": "0.129%",
+        "Pb": "0.014%"
+      }
+    },
+    "carbon_footprint": "14.59 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "DYSMET-073",
+    "batch_id": "BATCH-0073",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 96.61,
+      "impurities": {
+        "Fe": "0.042%",
+        "Pb": "0.033%"
+      }
+    },
+    "carbon_footprint": "19.38 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "TITSPO-074",
+    "batch_id": "BATCH-0074",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 97.57,
+      "impurities": {
+        "Fe": "0.13%",
+        "Pb": "0.017%"
+      }
+    },
+    "carbon_footprint": "11.64 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-075",
+    "batch_id": "BATCH-0075",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 99.44,
+      "impurities": {
+        "Fe": "0.169%",
+        "Pb": "0.044%"
+      }
+    },
+    "carbon_footprint": "22.29 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "FERMAG-076",
+    "batch_id": "BATCH-0076",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 95.07,
+      "impurities": {
+        "Fe": "0.048%",
+        "Pb": "0.014%"
+      }
+    },
+    "carbon_footprint": "16.16 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "MAG-077",
+    "batch_id": "BATCH-0077",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 95.31,
+      "impurities": {
+        "Fe": "0.164%",
+        "Pb": "0.037%"
+      }
+    },
+    "carbon_footprint": "13.53 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-078",
+    "batch_id": "BATCH-0078",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 97.01,
+      "impurities": {
+        "Fe": "0.059%",
+        "Pb": "0.045%"
+      }
+    },
+    "carbon_footprint": "22.08 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "FERALL-079",
+    "batch_id": "BATCH-0079",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 97.0,
+      "impurities": {
+        "Fe": "0.079%",
+        "Pb": "0.029%"
+      }
+    },
+    "carbon_footprint": "16.4 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-080",
+    "batch_id": "BATCH-0080",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 99.48,
+      "impurities": {
+        "Fe": "0.025%",
+        "Pb": "0.014%"
+      }
+    },
+    "carbon_footprint": "17.7 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "TITSPO-081",
+    "batch_id": "BATCH-0081",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 96.9,
+      "impurities": {
+        "Fe": "0.144%",
+        "Pb": "0.003%"
+      }
+    },
+    "carbon_footprint": "19.94 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "FERMAG-082",
+    "batch_id": "BATCH-0082",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 97.28,
+      "impurities": {
+        "Fe": "0.101%",
+        "Pb": "0.033%"
+      }
+    },
+    "carbon_footprint": "16.99 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "TITSPO-083",
+    "batch_id": "BATCH-0083",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 99.77,
+      "impurities": {
+        "Fe": "0.168%",
+        "Pb": "0.007%"
+      }
+    },
+    "carbon_footprint": "12.52 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-084",
+    "batch_id": "BATCH-0084",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 96.47,
+      "impurities": {
+        "Fe": "0.094%",
+        "Pb": "0.024%"
+      }
+    },
+    "carbon_footprint": "23.88 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-085",
+    "batch_id": "BATCH-0085",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 96.07,
+      "impurities": {
+        "Fe": "0.121%",
+        "Pb": "0.022%"
+      }
+    },
+    "carbon_footprint": "22.19 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-086",
+    "batch_id": "BATCH-0086",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 95.02,
+      "impurities": {
+        "Fe": "0.145%",
+        "Pb": "0.004%"
+      }
+    },
+    "carbon_footprint": "18.44 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-087",
+    "batch_id": "BATCH-0087",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 98.11,
+      "impurities": {
+        "Fe": "0.105%",
+        "Pb": "0.017%"
+      }
+    },
+    "carbon_footprint": "18.11 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "FERALL-088",
+    "batch_id": "BATCH-0088",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 99.6,
+      "impurities": {
+        "Fe": "0.192%",
+        "Pb": "0.022%"
+      }
+    },
+    "carbon_footprint": "24.32 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "TEROXI-089",
+    "batch_id": "BATCH-0089",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 95.66,
+      "impurities": {
+        "Fe": "0.189%",
+        "Pb": "0.023%"
+      }
+    },
+    "carbon_footprint": "10.14 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-090",
+    "batch_id": "BATCH-0090",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 98.34,
+      "impurities": {
+        "Fe": "0.072%",
+        "Pb": "0.047%"
+      }
+    },
+    "carbon_footprint": "16.12 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-091",
+    "batch_id": "BATCH-0091",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 99.22,
+      "impurities": {
+        "Fe": "0.185%",
+        "Pb": "0.014%"
+      }
+    },
+    "carbon_footprint": "24.27 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "DYSMET-092",
+    "batch_id": "BATCH-0092",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 95.51,
+      "impurities": {
+        "Fe": "0.11%",
+        "Pb": "0.045%"
+      }
+    },
+    "carbon_footprint": "20.89 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "FERALL-093",
+    "batch_id": "BATCH-0093",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 95.47,
+      "impurities": {
+        "Fe": "0.03%",
+        "Pb": "0.038%"
+      }
+    },
+    "carbon_footprint": "14.69 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-094",
+    "batch_id": "BATCH-0094",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 98.29,
+      "impurities": {
+        "Fe": "0.077%",
+        "Pb": "0.005%"
+      }
+    },
+    "carbon_footprint": "24.01 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "TITSPO-095",
+    "batch_id": "BATCH-0095",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 96.31,
+      "impurities": {
+        "Fe": "0.09%",
+        "Pb": "0.019%"
+      }
+    },
+    "carbon_footprint": "15.39 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "MAG-096",
+    "batch_id": "BATCH-0096",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 95.87,
+      "impurities": {
+        "Fe": "0.135%",
+        "Pb": "0.027%"
+      }
+    },
+    "carbon_footprint": "11.94 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "TEROXI-097",
+    "batch_id": "BATCH-0097",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 97.37,
+      "impurities": {
+        "Fe": "0.085%",
+        "Pb": "0.012%"
+      }
+    },
+    "carbon_footprint": "24.81 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERALL-098",
+    "batch_id": "BATCH-0098",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 98.03,
+      "impurities": {
+        "Fe": "0.06%",
+        "Pb": "0.012%"
+      }
+    },
+    "carbon_footprint": "12.2 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-099",
+    "batch_id": "BATCH-0099",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 98.56,
+      "impurities": {
+        "Fe": "0.119%",
+        "Pb": "0.05%"
+      }
+    },
+    "carbon_footprint": "20.04 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-100",
+    "batch_id": "BATCH-0100",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 97.07,
+      "impurities": {
+        "Fe": "0.174%",
+        "Pb": "0.037%"
+      }
+    },
+    "carbon_footprint": "16.73 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "MAG-101",
+    "batch_id": "BATCH-0101",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 99.22,
+      "impurities": {
+        "Fe": "0.114%",
+        "Pb": "0.015%"
+      }
+    },
+    "carbon_footprint": "12.82 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-102",
+    "batch_id": "BATCH-0102",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 95.8,
+      "impurities": {
+        "Fe": "0.06%",
+        "Pb": "0.004%"
+      }
+    },
+    "carbon_footprint": "21.37 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-103",
+    "batch_id": "BATCH-0103",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 99.04,
+      "impurities": {
+        "Fe": "0.124%",
+        "Pb": "0.019%"
+      }
+    },
+    "carbon_footprint": "22.0 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-104",
+    "batch_id": "BATCH-0104",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 98.7,
+      "impurities": {
+        "Fe": "0.052%",
+        "Pb": "0.01%"
+      }
+    },
+    "carbon_footprint": "13.04 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-105",
+    "batch_id": "BATCH-0105",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 99.12,
+      "impurities": {
+        "Fe": "0.095%",
+        "Pb": "0.001%"
+      }
+    },
+    "carbon_footprint": "17.31 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "FERMAG-106",
+    "batch_id": "BATCH-0106",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 98.59,
+      "impurities": {
+        "Fe": "0.116%",
+        "Pb": "0.046%"
+      }
+    },
+    "carbon_footprint": "10.14 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-107",
+    "batch_id": "BATCH-0107",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 98.02,
+      "impurities": {
+        "Fe": "0.188%",
+        "Pb": "0.017%"
+      }
+    },
+    "carbon_footprint": "14.65 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-108",
+    "batch_id": "BATCH-0108",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 97.04,
+      "impurities": {
+        "Fe": "0.039%",
+        "Pb": "0.002%"
+      }
+    },
+    "carbon_footprint": "13.13 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "TITSPO-109",
+    "batch_id": "BATCH-0109",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 95.9,
+      "impurities": {
+        "Fe": "0.183%",
+        "Pb": "0.046%"
+      }
+    },
+    "carbon_footprint": "15.16 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-110",
+    "batch_id": "BATCH-0110",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 97.31,
+      "impurities": {
+        "Fe": "0.045%",
+        "Pb": "0.01%"
+      }
+    },
+    "carbon_footprint": "13.19 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-111",
+    "batch_id": "BATCH-0111",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 95.92,
+      "impurities": {
+        "Fe": "0.168%",
+        "Pb": "0.01%"
+      }
+    },
+    "carbon_footprint": "19.83 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-112",
+    "batch_id": "BATCH-0112",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 95.4,
+      "impurities": {
+        "Fe": "0.174%",
+        "Pb": "0.01%"
+      }
+    },
+    "carbon_footprint": "24.46 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "MAG-113",
+    "batch_id": "BATCH-0113",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 95.03,
+      "impurities": {
+        "Fe": "0.167%",
+        "Pb": "0.038%"
+      }
+    },
+    "carbon_footprint": "24.32 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "DYSMET-114",
+    "batch_id": "BATCH-0114",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 97.18,
+      "impurities": {
+        "Fe": "0.185%",
+        "Pb": "0.037%"
+      }
+    },
+    "carbon_footprint": "22.43 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "MAG-115",
+    "batch_id": "BATCH-0115",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 99.29,
+      "impurities": {
+        "Fe": "0.101%",
+        "Pb": "0.029%"
+      }
+    },
+    "carbon_footprint": "11.13 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TEROXI-116",
+    "batch_id": "BATCH-0116",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 95.21,
+      "impurities": {
+        "Fe": "0.187%",
+        "Pb": "0.011%"
+      }
+    },
+    "carbon_footprint": "10.88 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "FERALL-117",
+    "batch_id": "BATCH-0117",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 99.44,
+      "impurities": {
+        "Fe": "0.1%",
+        "Pb": "0.02%"
+      }
+    },
+    "carbon_footprint": "19.41 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "DYSMET-118",
+    "batch_id": "BATCH-0118",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 96.06,
+      "impurities": {
+        "Fe": "0.167%",
+        "Pb": "0.014%"
+      }
+    },
+    "carbon_footprint": "16.8 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "MAG-119",
+    "batch_id": "BATCH-0119",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 95.56,
+      "impurities": {
+        "Fe": "0.17%",
+        "Pb": "0.02%"
+      }
+    },
+    "carbon_footprint": "23.48 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-120",
+    "batch_id": "BATCH-0120",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 98.85,
+      "impurities": {
+        "Fe": "0.109%",
+        "Pb": "0.047%"
+      }
+    },
+    "carbon_footprint": "13.22 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "FERALL-121",
+    "batch_id": "BATCH-0121",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 96.57,
+      "impurities": {
+        "Fe": "0.187%",
+        "Pb": "0.015%"
+      }
+    },
+    "carbon_footprint": "14.49 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "FERMAG-122",
+    "batch_id": "BATCH-0122",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 96.52,
+      "impurities": {
+        "Fe": "0.074%",
+        "Pb": "0.007%"
+      }
+    },
+    "carbon_footprint": "10.35 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "TEROXI-123",
+    "batch_id": "BATCH-0123",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 95.2,
+      "impurities": {
+        "Fe": "0.021%",
+        "Pb": "0.035%"
+      }
+    },
+    "carbon_footprint": "19.06 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "MAG-124",
+    "batch_id": "BATCH-0124",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 98.86,
+      "impurities": {
+        "Fe": "0.195%",
+        "Pb": "0.008%"
+      }
+    },
+    "carbon_footprint": "22.91 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-125",
+    "batch_id": "BATCH-0125",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 98.06,
+      "impurities": {
+        "Fe": "0.076%",
+        "Pb": "0.041%"
+      }
+    },
+    "carbon_footprint": "12.21 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "MAG-126",
+    "batch_id": "BATCH-0126",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 99.69,
+      "impurities": {
+        "Fe": "0.128%",
+        "Pb": "0.015%"
+      }
+    },
+    "carbon_footprint": "17.67 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-127",
+    "batch_id": "BATCH-0127",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 96.09,
+      "impurities": {
+        "Fe": "0.149%",
+        "Pb": "0.003%"
+      }
+    },
+    "carbon_footprint": "24.54 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "TEROXI-128",
+    "batch_id": "BATCH-0128",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 97.08,
+      "impurities": {
+        "Fe": "0.199%",
+        "Pb": "0.022%"
+      }
+    },
+    "carbon_footprint": "18.86 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-129",
+    "batch_id": "BATCH-0129",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 98.83,
+      "impurities": {
+        "Fe": "0.141%",
+        "Pb": "0.023%"
+      }
+    },
+    "carbon_footprint": "16.98 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-130",
+    "batch_id": "BATCH-0130",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 98.13,
+      "impurities": {
+        "Fe": "0.073%",
+        "Pb": "0.004%"
+      }
+    },
+    "carbon_footprint": "15.49 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "FERALL-131",
+    "batch_id": "BATCH-0131",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 95.95,
+      "impurities": {
+        "Fe": "0.189%",
+        "Pb": "0.039%"
+      }
+    },
+    "carbon_footprint": "15.52 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "MAG-132",
+    "batch_id": "BATCH-0132",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 95.09,
+      "impurities": {
+        "Fe": "0.099%",
+        "Pb": "0.009%"
+      }
+    },
+    "carbon_footprint": "17.19 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "FERMAG-133",
+    "batch_id": "BATCH-0133",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 99.3,
+      "impurities": {
+        "Fe": "0.106%",
+        "Pb": "0.006%"
+      }
+    },
+    "carbon_footprint": "23.13 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "TITSPO-134",
+    "batch_id": "BATCH-0134",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 99.54,
+      "impurities": {
+        "Fe": "0.012%",
+        "Pb": "0.044%"
+      }
+    },
+    "carbon_footprint": "24.8 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-135",
+    "batch_id": "BATCH-0135",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 98.17,
+      "impurities": {
+        "Fe": "0.017%",
+        "Pb": "0.035%"
+      }
+    },
+    "carbon_footprint": "12.68 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "FERMAG-136",
+    "batch_id": "BATCH-0136",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 95.3,
+      "impurities": {
+        "Fe": "0.041%",
+        "Pb": "0.018%"
+      }
+    },
+    "carbon_footprint": "23.83 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "FERALL-137",
+    "batch_id": "BATCH-0137",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 95.42,
+      "impurities": {
+        "Fe": "0.043%",
+        "Pb": "0.011%"
+      }
+    },
+    "carbon_footprint": "18.62 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-138",
+    "batch_id": "BATCH-0138",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 96.26,
+      "impurities": {
+        "Fe": "0.118%",
+        "Pb": "0.042%"
+      }
+    },
+    "carbon_footprint": "22.48 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "FERMAG-139",
+    "batch_id": "BATCH-0139",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 96.8,
+      "impurities": {
+        "Fe": "0.194%",
+        "Pb": "0.007%"
+      }
+    },
+    "carbon_footprint": "17.52 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-140",
+    "batch_id": "BATCH-0140",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 96.1,
+      "impurities": {
+        "Fe": "0.145%",
+        "Pb": "0.016%"
+      }
+    },
+    "carbon_footprint": "14.66 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-141",
+    "batch_id": "BATCH-0141",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 97.48,
+      "impurities": {
+        "Fe": "0.186%",
+        "Pb": "0.009%"
+      }
+    },
+    "carbon_footprint": "23.87 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERALL-142",
+    "batch_id": "BATCH-0142",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 99.24,
+      "impurities": {
+        "Fe": "0.075%",
+        "Pb": "0.032%"
+      }
+    },
+    "carbon_footprint": "23.17 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "MAG-143",
+    "batch_id": "BATCH-0143",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 97.05,
+      "impurities": {
+        "Fe": "0.116%",
+        "Pb": "0.039%"
+      }
+    },
+    "carbon_footprint": "14.58 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-144",
+    "batch_id": "BATCH-0144",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 97.95,
+      "impurities": {
+        "Fe": "0.127%",
+        "Pb": "0.047%"
+      }
+    },
+    "carbon_footprint": "15.21 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "TEROXI-145",
+    "batch_id": "BATCH-0145",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 95.69,
+      "impurities": {
+        "Fe": "0.01%",
+        "Pb": "0.023%"
+      }
+    },
+    "carbon_footprint": "21.77 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-146",
+    "batch_id": "BATCH-0146",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 97.64,
+      "impurities": {
+        "Fe": "0.06%",
+        "Pb": "0.01%"
+      }
+    },
+    "carbon_footprint": "18.08 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "DYSMET-147",
+    "batch_id": "BATCH-0147",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 95.68,
+      "impurities": {
+        "Fe": "0.09%",
+        "Pb": "0.044%"
+      }
+    },
+    "carbon_footprint": "20.82 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-148",
+    "batch_id": "BATCH-0148",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 99.0,
+      "impurities": {
+        "Fe": "0.031%",
+        "Pb": "0.045%"
+      }
+    },
+    "carbon_footprint": "13.77 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "TITSPO-149",
+    "batch_id": "BATCH-0149",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 95.58,
+      "impurities": {
+        "Fe": "0.094%",
+        "Pb": "0.017%"
+      }
+    },
+    "carbon_footprint": "21.57 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TEROXI-150",
+    "batch_id": "BATCH-0150",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 99.37,
+      "impurities": {
+        "Fe": "0.042%",
+        "Pb": "0.017%"
+      }
+    },
+    "carbon_footprint": "14.15 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-151",
+    "batch_id": "BATCH-0151",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 96.82,
+      "impurities": {
+        "Fe": "0.07%",
+        "Pb": "0.027%"
+      }
+    },
+    "carbon_footprint": "17.4 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "MAG-152",
+    "batch_id": "BATCH-0152",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 97.04,
+      "impurities": {
+        "Fe": "0.165%",
+        "Pb": "0.048%"
+      }
+    },
+    "carbon_footprint": "24.65 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "TITSPO-153",
+    "batch_id": "BATCH-0153",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 96.19,
+      "impurities": {
+        "Fe": "0.092%",
+        "Pb": "0.004%"
+      }
+    },
+    "carbon_footprint": "15.18 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-154",
+    "batch_id": "BATCH-0154",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 98.05,
+      "impurities": {
+        "Fe": "0.11%",
+        "Pb": "0.04%"
+      }
+    },
+    "carbon_footprint": "12.83 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-155",
+    "batch_id": "BATCH-0155",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 96.28,
+      "impurities": {
+        "Fe": "0.087%",
+        "Pb": "0.031%"
+      }
+    },
+    "carbon_footprint": "18.98 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "TEROXI-156",
+    "batch_id": "BATCH-0156",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 96.61,
+      "impurities": {
+        "Fe": "0.053%",
+        "Pb": "0.02%"
+      }
+    },
+    "carbon_footprint": "19.93 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "TEROXI-157",
+    "batch_id": "BATCH-0157",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 95.79,
+      "impurities": {
+        "Fe": "0.133%",
+        "Pb": "0.046%"
+      }
+    },
+    "carbon_footprint": "18.5 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-158",
+    "batch_id": "BATCH-0158",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 96.03,
+      "impurities": {
+        "Fe": "0.042%",
+        "Pb": "0.023%"
+      }
+    },
+    "carbon_footprint": "20.42 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "MAG-159",
+    "batch_id": "BATCH-0159",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 96.03,
+      "impurities": {
+        "Fe": "0.098%",
+        "Pb": "0.049%"
+      }
+    },
+    "carbon_footprint": "15.5 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-160",
+    "batch_id": "BATCH-0160",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 99.97,
+      "impurities": {
+        "Fe": "0.197%",
+        "Pb": "0.002%"
+      }
+    },
+    "carbon_footprint": "17.36 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "DYSMET-161",
+    "batch_id": "BATCH-0161",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 98.82,
+      "impurities": {
+        "Fe": "0.075%",
+        "Pb": "0.047%"
+      }
+    },
+    "carbon_footprint": "17.7 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "MAG-162",
+    "batch_id": "BATCH-0162",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 97.75,
+      "impurities": {
+        "Fe": "0.16%",
+        "Pb": "0.035%"
+      }
+    },
+    "carbon_footprint": "21.31 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-163",
+    "batch_id": "BATCH-0163",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 95.45,
+      "impurities": {
+        "Fe": "0.053%",
+        "Pb": "0.04%"
+      }
+    },
+    "carbon_footprint": "11.55 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "FERALL-164",
+    "batch_id": "BATCH-0164",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 96.44,
+      "impurities": {
+        "Fe": "0.02%",
+        "Pb": "0.032%"
+      }
+    },
+    "carbon_footprint": "17.7 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-165",
+    "batch_id": "BATCH-0165",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 95.51,
+      "impurities": {
+        "Fe": "0.04%",
+        "Pb": "0.041%"
+      }
+    },
+    "carbon_footprint": "11.76 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-166",
+    "batch_id": "BATCH-0166",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 99.08,
+      "impurities": {
+        "Fe": "0.021%",
+        "Pb": "0.016%"
+      }
+    },
+    "carbon_footprint": "10.85 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "MAG-167",
+    "batch_id": "BATCH-0167",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 95.2,
+      "impurities": {
+        "Fe": "0.183%",
+        "Pb": "0.017%"
+      }
+    },
+    "carbon_footprint": "22.16 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-168",
+    "batch_id": "BATCH-0168",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 99.21,
+      "impurities": {
+        "Fe": "0.118%",
+        "Pb": "0.027%"
+      }
+    },
+    "carbon_footprint": "13.56 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERALL-169",
+    "batch_id": "BATCH-0169",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 95.21,
+      "impurities": {
+        "Fe": "0.023%",
+        "Pb": "0.047%"
+      }
+    },
+    "carbon_footprint": "19.46 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "FERMAG-170",
+    "batch_id": "BATCH-0170",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 95.61,
+      "impurities": {
+        "Fe": "0.093%",
+        "Pb": "0.036%"
+      }
+    },
+    "carbon_footprint": "20.34 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "FERALL-171",
+    "batch_id": "BATCH-0171",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 97.69,
+      "impurities": {
+        "Fe": "0.096%",
+        "Pb": "0.028%"
+      }
+    },
+    "carbon_footprint": "20.78 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-172",
+    "batch_id": "BATCH-0172",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 99.1,
+      "impurities": {
+        "Fe": "0.096%",
+        "Pb": "0.044%"
+      }
+    },
+    "carbon_footprint": "19.95 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-173",
+    "batch_id": "BATCH-0173",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 99.1,
+      "impurities": {
+        "Fe": "0.108%",
+        "Pb": "0.05%"
+      }
+    },
+    "carbon_footprint": "14.73 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "TEROXI-174",
+    "batch_id": "BATCH-0174",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 97.41,
+      "impurities": {
+        "Fe": "0.019%",
+        "Pb": "0.037%"
+      }
+    },
+    "carbon_footprint": "24.97 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-175",
+    "batch_id": "BATCH-0175",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 95.88,
+      "impurities": {
+        "Fe": "0.165%",
+        "Pb": "0.004%"
+      }
+    },
+    "carbon_footprint": "18.37 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "MAG-176",
+    "batch_id": "BATCH-0176",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 95.98,
+      "impurities": {
+        "Fe": "0.036%",
+        "Pb": "0.011%"
+      }
+    },
+    "carbon_footprint": "10.71 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "NEOOXI-177",
+    "batch_id": "BATCH-0177",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Neodymium",
+      "purity_percent": 95.62,
+      "impurities": {
+        "Fe": "0.128%",
+        "Pb": "0.043%"
+      }
+    },
+    "carbon_footprint": "16.16 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-178",
+    "batch_id": "BATCH-0178",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 99.39,
+      "impurities": {
+        "Fe": "0.143%",
+        "Pb": "0.01%"
+      }
+    },
+    "carbon_footprint": "13.9 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "DYSMET-179",
+    "batch_id": "BATCH-0179",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 95.93,
+      "impurities": {
+        "Fe": "0.141%",
+        "Pb": "0.026%"
+      }
+    },
+    "carbon_footprint": "12.98 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-180",
+    "batch_id": "BATCH-0180",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 96.49,
+      "impurities": {
+        "Fe": "0.088%",
+        "Pb": "0.038%"
+      }
+    },
+    "carbon_footprint": "18.05 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "FERALL-181",
+    "batch_id": "BATCH-0181",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 98.35,
+      "impurities": {
+        "Fe": "0.061%",
+        "Pb": "0.027%"
+      }
+    },
+    "carbon_footprint": "14.44 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-182",
+    "batch_id": "BATCH-0182",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 99.31,
+      "impurities": {
+        "Fe": "0.094%",
+        "Pb": "0.025%"
+      }
+    },
+    "carbon_footprint": "23.71 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "FERALL-183",
+    "batch_id": "BATCH-0183",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 99.81,
+      "impurities": {
+        "Fe": "0.029%",
+        "Pb": "0.043%"
+      }
+    },
+    "carbon_footprint": "24.14 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-184",
+    "batch_id": "BATCH-0184",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 96.73,
+      "impurities": {
+        "Fe": "0.056%",
+        "Pb": "0.025%"
+      }
+    },
+    "carbon_footprint": "12.96 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "ISO 45001"
+    ]
+  },
+  {
+    "product_code": "TITSPO-185",
+    "batch_id": "BATCH-0185",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 97.8,
+      "impurities": {
+        "Fe": "0.08%",
+        "Pb": "0.027%"
+      }
+    },
+    "carbon_footprint": "12.48 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-186",
+    "batch_id": "BATCH-0186",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 98.57,
+      "impurities": {
+        "Fe": "0.187%",
+        "Pb": "0.002%"
+      }
+    },
+    "carbon_footprint": "12.89 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "MAG-187",
+    "batch_id": "BATCH-0187",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 99.18,
+      "impurities": {
+        "Fe": "0.183%",
+        "Pb": "0.027%"
+      }
+    },
+    "carbon_footprint": "24.24 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "MAG-188",
+    "batch_id": "BATCH-0188",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "High-Purity",
+      "purity_percent": 98.61,
+      "impurities": {
+        "Fe": "0.172%",
+        "Pb": "0.015%"
+      }
+    },
+    "carbon_footprint": "22.45 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "TITSPO-189",
+    "batch_id": "BATCH-0189",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 96.08,
+      "impurities": {
+        "Fe": "0.061%",
+        "Pb": "0.035%"
+      }
+    },
+    "carbon_footprint": "23.76 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "FERMAG-190",
+    "batch_id": "BATCH-0190",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 99.0,
+      "impurities": {
+        "Fe": "0.153%",
+        "Pb": "0.019%"
+      }
+    },
+    "carbon_footprint": "19.42 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERALL-191",
+    "batch_id": "BATCH-0191",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 96.75,
+      "impurities": {
+        "Fe": "0.087%",
+        "Pb": "0.008%"
+      }
+    },
+    "carbon_footprint": "24.34 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "ISO 9001"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-192",
+    "batch_id": "BATCH-0192",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 99.91,
+      "impurities": {
+        "Fe": "0.1%",
+        "Pb": "0.033%"
+      }
+    },
+    "carbon_footprint": "19.32 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "TEROXI-193",
+    "batch_id": "BATCH-0193",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Terbium",
+      "purity_percent": 97.27,
+      "impurities": {
+        "Fe": "0.025%",
+        "Pb": "0.026%"
+      }
+    },
+    "carbon_footprint": "17.98 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "RoHS"
+    ]
+  },
+  {
+    "product_code": "IROOREFIN-194",
+    "batch_id": "BATCH-0194",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 98.9,
+      "impurities": {
+        "Fe": "0.122%",
+        "Pb": "0.041%"
+      }
+    },
+    "carbon_footprint": "20.8 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "IROOREPEL-195",
+    "batch_id": "BATCH-0195",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 99.23,
+      "impurities": {
+        "Fe": "0.112%",
+        "Pb": "0.033%"
+      }
+    },
+    "carbon_footprint": "18.62 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "TITSPO-196",
+    "batch_id": "BATCH-0196",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Titanium",
+      "purity_percent": 97.51,
+      "impurities": {
+        "Fe": "0.093%",
+        "Pb": "0.045%"
+      }
+    },
+    "carbon_footprint": "15.65 kg CO2/tonne",
+    "certifications": [
+      "RoHS",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERMAG-197",
+    "batch_id": "BATCH-0197",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrosilicon",
+      "purity_percent": 97.6,
+      "impurities": {
+        "Fe": "0.168%",
+        "Pb": "0.03%"
+      }
+    },
+    "carbon_footprint": "21.62 kg CO2/tonne",
+    "certifications": [
+      "ISO 14001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "DYSMET-198",
+    "batch_id": "BATCH-0198",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Dysprosium",
+      "purity_percent": 96.65,
+      "impurities": {
+        "Fe": "0.065%",
+        "Pb": "0.027%"
+      }
+    },
+    "carbon_footprint": "12.63 kg CO2/tonne",
+    "certifications": [
+      "ISO 9001",
+      "REACH"
+    ]
+  },
+  {
+    "product_code": "IROORELUM-199",
+    "batch_id": "BATCH-0199",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Iron",
+      "purity_percent": 95.19,
+      "impurities": {
+        "Fe": "0.036%",
+        "Pb": "0.023%"
+      }
+    },
+    "carbon_footprint": "20.02 kg CO2/tonne",
+    "certifications": [
+      "REACH",
+      "ISO 14001"
+    ]
+  },
+  {
+    "product_code": "FERALL-200",
+    "batch_id": "BATCH-0200",
+    "origin": "Lule\u00e5 Industrial Park",
+    "composition": {
+      "primary_element": "Ferrovanadium",
+      "purity_percent": 95.31,
+      "impurities": {
+        "Fe": "0.015%",
+        "Pb": "0.025%"
+      }
+    },
+    "carbon_footprint": "18.04 kg CO2/tonne",
+    "certifications": [
+      "ISO 45001",
+      "RoHS"
+    ]
+  }
+]

@@ -1,0 +1,201 @@
+id,code,name,category,price_per_tonne,stock_tonnes
+1,NEOOXI-001,Neodymium Oxide,Rare Earth,4657.93,9720
+2,IROOREFIN-002,Iron Ore Fines,Iron Ore,3846.3,4690
+3,MAG-003,High-Purity Magnesium,Specialty Metal,3034.44,3987
+4,FERALL-004,Ferrovanadium Alloy,Specialty Alloy,6545.05,5186
+5,MAG-005,High-Purity Magnesium,Specialty Metal,1563.94,4336
+6,FERMAG-006,Ferrosilicon Magnesium,Specialty Alloy,4760.25,280
+7,IROOREPEL-007,Iron Ore Pellets,Iron Ore,7915.59,8693
+8,TEROXI-008,Terbium Oxide,Rare Earth,2586.0,3348
+9,IROOREPEL-009,Iron Ore Pellets,Iron Ore,10099.48,9426
+10,TITSPO-010,Titanium Sponge,Specialty Metal,1867.86,6956
+11,TITSPO-011,Titanium Sponge,Specialty Metal,6429.62,4130
+12,MAG-012,High-Purity Magnesium,Specialty Metal,4185.16,2598
+13,IROOREFIN-013,Iron Ore Fines,Iron Ore,6480.66,1317
+14,TITSPO-014,Titanium Sponge,Specialty Metal,12056.81,7169
+15,IROORELUM-015,Iron Ore Lump,Iron Ore,8997.38,1779
+16,IROOREPEL-016,Iron Ore Pellets,Iron Ore,10505.53,3169
+17,MAG-017,High-Purity Magnesium,Specialty Metal,2244.57,480
+18,FERALL-018,Ferrovanadium Alloy,Specialty Alloy,7693.94,137
+19,FERALL-019,Ferrovanadium Alloy,Specialty Alloy,732.92,6865
+20,NEOOXI-020,Neodymium Oxide,Rare Earth,831.05,6534
+21,NEOOXI-021,Neodymium Oxide,Rare Earth,11684.54,6530
+22,TEROXI-022,Terbium Oxide,Rare Earth,8525.86,2699
+23,MAG-023,High-Purity Magnesium,Specialty Metal,5004.17,238
+24,MAG-024,High-Purity Magnesium,Specialty Metal,7089.26,218
+25,MAG-025,High-Purity Magnesium,Specialty Metal,10650.41,6696
+26,MAG-026,High-Purity Magnesium,Specialty Metal,11044.04,1232
+27,FERMAG-027,Ferrosilicon Magnesium,Specialty Alloy,5695.2,8583
+28,DYSMET-028,Dysprosium Metal,Rare Earth,8767.8,4182
+29,DYSMET-029,Dysprosium Metal,Rare Earth,2052.84,4477
+30,TEROXI-030,Terbium Oxide,Rare Earth,2099.1,7269
+31,MAG-031,High-Purity Magnesium,Specialty Metal,7243.14,1196
+32,FERMAG-032,Ferrosilicon Magnesium,Specialty Alloy,2135.34,4138
+33,NEOOXI-033,Neodymium Oxide,Rare Earth,10778.86,8918
+34,TITSPO-034,Titanium Sponge,Specialty Metal,2501.82,7747
+35,NEOOXI-035,Neodymium Oxide,Rare Earth,7400.64,4637
+36,MAG-036,High-Purity Magnesium,Specialty Metal,1409.37,1061
+37,TEROXI-037,Terbium Oxide,Rare Earth,2415.71,1321
+38,FERALL-038,Ferrovanadium Alloy,Specialty Alloy,6628.89,9091
+39,TEROXI-039,Terbium Oxide,Rare Earth,4111.01,2662
+40,FERMAG-040,Ferrosilicon Magnesium,Specialty Alloy,6049.11,6291
+41,IROOREFIN-041,Iron Ore Fines,Iron Ore,735.44,3176
+42,FERALL-042,Ferrovanadium Alloy,Specialty Alloy,2269.65,8971
+43,MAG-043,High-Purity Magnesium,Specialty Metal,3301.44,3972
+44,NEOOXI-044,Neodymium Oxide,Rare Earth,7832.94,6090
+45,MAG-045,High-Purity Magnesium,Specialty Metal,3486.91,722
+46,IROOREFIN-046,Iron Ore Fines,Iron Ore,5466.32,5425
+47,IROORELUM-047,Iron Ore Lump,Iron Ore,782.46,3637
+48,DYSMET-048,Dysprosium Metal,Rare Earth,6121.03,9751
+49,IROORELUM-049,Iron Ore Lump,Iron Ore,7656.16,8066
+50,MAG-050,High-Purity Magnesium,Specialty Metal,10849.35,6636
+51,FERMAG-051,Ferrosilicon Magnesium,Specialty Alloy,8235.49,4032
+52,FERALL-052,Ferrovanadium Alloy,Specialty Alloy,960.25,5074
+53,NEOOXI-053,Neodymium Oxide,Rare Earth,5867.74,6389
+54,NEOOXI-054,Neodymium Oxide,Rare Earth,11394.24,1456
+55,IROORELUM-055,Iron Ore Lump,Iron Ore,6739.64,388
+56,IROORELUM-056,Iron Ore Lump,Iron Ore,8176.26,8791
+57,FERALL-057,Ferrovanadium Alloy,Specialty Alloy,2856.14,2947
+58,TEROXI-058,Terbium Oxide,Rare Earth,1827.8,4212
+59,FERMAG-059,Ferrosilicon Magnesium,Specialty Alloy,3429.82,6147
+60,IROOREFIN-060,Iron Ore Fines,Iron Ore,11768.66,2636
+61,IROORELUM-061,Iron Ore Lump,Iron Ore,4025.03,9899
+62,IROOREPEL-062,Iron Ore Pellets,Iron Ore,9458.16,7300
+63,NEOOXI-063,Neodymium Oxide,Rare Earth,2631.17,8249
+64,IROOREPEL-064,Iron Ore Pellets,Iron Ore,11186.0,4704
+65,IROOREFIN-065,Iron Ore Fines,Iron Ore,7886.69,4645
+66,IROOREFIN-066,Iron Ore Fines,Iron Ore,344.13,144
+67,FERALL-067,Ferrovanadium Alloy,Specialty Alloy,11126.86,5213
+68,IROOREFIN-068,Iron Ore Fines,Iron Ore,9476.29,1172
+69,IROORELUM-069,Iron Ore Lump,Iron Ore,1961.74,5979
+70,IROOREPEL-070,Iron Ore Pellets,Iron Ore,2762.03,2672
+71,FERMAG-071,Ferrosilicon Magnesium,Specialty Alloy,3763.5,1339
+72,DYSMET-072,Dysprosium Metal,Rare Earth,5281.16,5072
+73,IROOREPEL-073,Iron Ore Pellets,Iron Ore,248.68,1640
+74,IROOREFIN-074,Iron Ore Fines,Iron Ore,3038.36,823
+75,IROOREPEL-075,Iron Ore Pellets,Iron Ore,2652.45,4542
+76,NEOOXI-076,Neodymium Oxide,Rare Earth,11875.09,5059
+77,IROOREFIN-077,Iron Ore Fines,Iron Ore,8658.93,4681
+78,FERALL-078,Ferrovanadium Alloy,Specialty Alloy,8297.15,2983
+79,NEOOXI-079,Neodymium Oxide,Rare Earth,7502.45,3510
+80,IROOREPEL-080,Iron Ore Pellets,Iron Ore,10453.39,3825
+81,FERALL-081,Ferrovanadium Alloy,Specialty Alloy,5802.89,7232
+82,TEROXI-082,Terbium Oxide,Rare Earth,12499.97,1203
+83,DYSMET-083,Dysprosium Metal,Rare Earth,970.59,7512
+84,IROOREFIN-084,Iron Ore Fines,Iron Ore,1190.95,8681
+85,FERMAG-085,Ferrosilicon Magnesium,Specialty Alloy,2283.59,475
+86,TITSPO-086,Titanium Sponge,Specialty Metal,11429.3,7436
+87,NEOOXI-087,Neodymium Oxide,Rare Earth,10465.42,6954
+88,MAG-088,High-Purity Magnesium,Specialty Metal,9345.61,2930
+89,FERMAG-089,Ferrosilicon Magnesium,Specialty Alloy,4422.21,7862
+90,TITSPO-090,Titanium Sponge,Specialty Metal,6246.33,7349
+91,FERMAG-091,Ferrosilicon Magnesium,Specialty Alloy,10982.98,650
+92,IROOREPEL-092,Iron Ore Pellets,Iron Ore,2843.37,669
+93,FERALL-093,Ferrovanadium Alloy,Specialty Alloy,11784.24,5000
+94,NEOOXI-094,Neodymium Oxide,Rare Earth,2955.13,3946
+95,DYSMET-095,Dysprosium Metal,Rare Earth,4950.26,2008
+96,IROORELUM-096,Iron Ore Lump,Iron Ore,3425.74,650
+97,NEOOXI-097,Neodymium Oxide,Rare Earth,599.44,4925
+98,IROORELUM-098,Iron Ore Lump,Iron Ore,7596.64,7828
+99,IROORELUM-099,Iron Ore Lump,Iron Ore,150.39,9611
+100,IROOREFIN-100,Iron Ore Fines,Iron Ore,5207.66,1395
+101,DYSMET-101,Dysprosium Metal,Rare Earth,6677.86,3509
+102,TITSPO-102,Titanium Sponge,Specialty Metal,6881.3,6011
+103,DYSMET-103,Dysprosium Metal,Rare Earth,2912.9,4123
+104,FERALL-104,Ferrovanadium Alloy,Specialty Alloy,3132.02,2512
+105,IROORELUM-105,Iron Ore Lump,Iron Ore,6525.42,4347
+106,TITSPO-106,Titanium Sponge,Specialty Metal,11632.79,1219
+107,NEOOXI-107,Neodymium Oxide,Rare Earth,10049.95,1038
+108,TITSPO-108,Titanium Sponge,Specialty Metal,11512.92,4022
+109,IROORELUM-109,Iron Ore Lump,Iron Ore,3768.61,9618
+110,DYSMET-110,Dysprosium Metal,Rare Earth,4866.66,9721
+111,TITSPO-111,Titanium Sponge,Specialty Metal,2314.36,9753
+112,TITSPO-112,Titanium Sponge,Specialty Metal,694.46,9489
+113,TITSPO-113,Titanium Sponge,Specialty Metal,12223.26,4250
+114,FERALL-114,Ferrovanadium Alloy,Specialty Alloy,2079.53,5943
+115,FERMAG-115,Ferrosilicon Magnesium,Specialty Alloy,3674.45,5682
+116,DYSMET-116,Dysprosium Metal,Rare Earth,5183.25,1508
+117,IROOREPEL-117,Iron Ore Pellets,Iron Ore,9853.13,7323
+118,FERALL-118,Ferrovanadium Alloy,Specialty Alloy,6970.89,4706
+119,NEOOXI-119,Neodymium Oxide,Rare Earth,10509.41,3296
+120,TEROXI-120,Terbium Oxide,Rare Earth,4999.64,3663
+121,IROORELUM-121,Iron Ore Lump,Iron Ore,11368.45,4671
+122,FERMAG-122,Ferrosilicon Magnesium,Specialty Alloy,8407.55,8259
+123,FERMAG-123,Ferrosilicon Magnesium,Specialty Alloy,9778.26,2844
+124,FERMAG-124,Ferrosilicon Magnesium,Specialty Alloy,2301.97,3002
+125,DYSMET-125,Dysprosium Metal,Rare Earth,10877.16,4214
+126,IROOREFIN-126,Iron Ore Fines,Iron Ore,6579.88,8787
+127,NEOOXI-127,Neodymium Oxide,Rare Earth,3636.6,2268
+128,NEOOXI-128,Neodymium Oxide,Rare Earth,9590.23,4465
+129,IROOREFIN-129,Iron Ore Fines,Iron Ore,8474.26,6936
+130,FERALL-130,Ferrovanadium Alloy,Specialty Alloy,664.48,2338
+131,IROOREFIN-131,Iron Ore Fines,Iron Ore,3339.25,2466
+132,IROOREFIN-132,Iron Ore Fines,Iron Ore,10726.96,410
+133,DYSMET-133,Dysprosium Metal,Rare Earth,12567.71,8400
+134,IROOREFIN-134,Iron Ore Fines,Iron Ore,10692.91,2978
+135,TITSPO-135,Titanium Sponge,Specialty Metal,8392.42,4287
+136,IROOREFIN-136,Iron Ore Fines,Iron Ore,8603.14,8327
+137,IROOREPEL-137,Iron Ore Pellets,Iron Ore,4446.53,5013
+138,MAG-138,High-Purity Magnesium,Specialty Metal,7242.86,1960
+139,FERALL-139,Ferrovanadium Alloy,Specialty Alloy,5833.83,8540
+140,MAG-140,High-Purity Magnesium,Specialty Metal,1266.87,1508
+141,NEOOXI-141,Neodymium Oxide,Rare Earth,5541.21,9758
+142,IROORELUM-142,Iron Ore Lump,Iron Ore,12062.48,5434
+143,MAG-143,High-Purity Magnesium,Specialty Metal,8261.52,4701
+144,FERALL-144,Ferrovanadium Alloy,Specialty Alloy,1460.42,304
+145,FERALL-145,Ferrovanadium Alloy,Specialty Alloy,12586.06,2728
+146,MAG-146,High-Purity Magnesium,Specialty Metal,4465.44,7384
+147,NEOOXI-147,Neodymium Oxide,Rare Earth,2440.03,6572
+148,FERMAG-148,Ferrosilicon Magnesium,Specialty Alloy,2117.31,6525
+149,DYSMET-149,Dysprosium Metal,Rare Earth,12504.3,4295
+150,IROOREFIN-150,Iron Ore Fines,Iron Ore,3604.39,2851
+151,TITSPO-151,Titanium Sponge,Specialty Metal,11117.83,1831
+152,DYSMET-152,Dysprosium Metal,Rare Earth,5931.45,9684
+153,NEOOXI-153,Neodymium Oxide,Rare Earth,8849.9,1606
+154,FERMAG-154,Ferrosilicon Magnesium,Specialty Alloy,10452.19,700
+155,FERMAG-155,Ferrosilicon Magnesium,Specialty Alloy,3383.53,7985
+156,NEOOXI-156,Neodymium Oxide,Rare Earth,5833.58,9334
+157,IROOREFIN-157,Iron Ore Fines,Iron Ore,5808.3,9804
+158,TITSPO-158,Titanium Sponge,Specialty Metal,7268.75,6253
+159,IROOREPEL-159,Iron Ore Pellets,Iron Ore,6343.56,6318
+160,TEROXI-160,Terbium Oxide,Rare Earth,1245.51,8623
+161,MAG-161,High-Purity Magnesium,Specialty Metal,3400.85,9969
+162,DYSMET-162,Dysprosium Metal,Rare Earth,4948.35,7656
+163,TEROXI-163,Terbium Oxide,Rare Earth,1775.48,346
+164,NEOOXI-164,Neodymium Oxide,Rare Earth,5813.34,3907
+165,DYSMET-165,Dysprosium Metal,Rare Earth,1765.38,5048
+166,FERALL-166,Ferrovanadium Alloy,Specialty Alloy,5251.2,5315
+167,MAG-167,High-Purity Magnesium,Specialty Metal,995.04,4656
+168,TITSPO-168,Titanium Sponge,Specialty Metal,6685.89,737
+169,IROORELUM-169,Iron Ore Lump,Iron Ore,10124.28,9184
+170,FERMAG-170,Ferrosilicon Magnesium,Specialty Alloy,7149.13,9111
+171,NEOOXI-171,Neodymium Oxide,Rare Earth,2356.23,7638
+172,MAG-172,High-Purity Magnesium,Specialty Metal,5983.35,227
+173,IROOREFIN-173,Iron Ore Fines,Iron Ore,9868.13,576
+174,TITSPO-174,Titanium Sponge,Specialty Metal,2251.91,4580
+175,MAG-175,High-Purity Magnesium,Specialty Metal,1124.31,2510
+176,FERMAG-176,Ferrosilicon Magnesium,Specialty Alloy,5297.56,8125
+177,IROOREPEL-177,Iron Ore Pellets,Iron Ore,10285.29,460
+178,TITSPO-178,Titanium Sponge,Specialty Metal,1769.74,5875
+179,DYSMET-179,Dysprosium Metal,Rare Earth,11079.66,149
+180,FERMAG-180,Ferrosilicon Magnesium,Specialty Alloy,11297.27,7026
+181,FERMAG-181,Ferrosilicon Magnesium,Specialty Alloy,10830.58,2906
+182,IROORELUM-182,Iron Ore Lump,Iron Ore,6488.6,7419
+183,IROOREFIN-183,Iron Ore Fines,Iron Ore,10145.73,7801
+184,IROORELUM-184,Iron Ore Lump,Iron Ore,5229.94,3445
+185,TITSPO-185,Titanium Sponge,Specialty Metal,9611.19,3646
+186,IROOREFIN-186,Iron Ore Fines,Iron Ore,6622.38,6772
+187,FERALL-187,Ferrovanadium Alloy,Specialty Alloy,4913.37,1525
+188,TITSPO-188,Titanium Sponge,Specialty Metal,10922.42,6097
+189,FERALL-189,Ferrovanadium Alloy,Specialty Alloy,3937.1,7486
+190,IROORELUM-190,Iron Ore Lump,Iron Ore,4778.16,6753
+191,FERMAG-191,Ferrosilicon Magnesium,Specialty Alloy,1174.17,8468
+192,NEOOXI-192,Neodymium Oxide,Rare Earth,8107.79,7299
+193,MAG-193,High-Purity Magnesium,Specialty Metal,8091.37,7498
+194,IROOREFIN-194,Iron Ore Fines,Iron Ore,7465.78,1031
+195,FERMAG-195,Ferrosilicon Magnesium,Specialty Alloy,1622.77,7517
+196,DYSMET-196,Dysprosium Metal,Rare Earth,11207.81,5746
+197,TITSPO-197,Titanium Sponge,Specialty Metal,106.2,1400
+198,FERALL-198,Ferrovanadium Alloy,Specialty Alloy,8044.82,7041
+199,MAG-199,High-Purity Magnesium,Specialty Metal,2634.95,4045
+200,TEROXI-200,Terbium Oxide,Rare Earth,658.77,3624
