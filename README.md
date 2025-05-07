@@ -15,6 +15,9 @@ The goal is to set up a network consisting of multiple servers running open-sour
 
 The work carried out during this project is intended to be integrated into the Demand-Supply Matching (DSM) system developed at LTU, assessing its interoperability with emerging Digital Product Passport (DPP) systems [Cir24].
 
+## 3 How to use
+Documentation of the product in `docs/PDB_documentation_v1`
+
 ## References
 - [IDS23] IDSA. IDS RAM 4: <i>Metadata Broker</i>. https://docs.internationaldataspaces.org/ids-knowledgebase/ids-ram-4/layers-of-the-reference-architecture-model/3-layers-of-the-reference-architecture-model/3_5_0_system_layer/3_5_4_metadata_broker. 2023.
 - [Cir24] <i>Cirpass</i>: DPP in a nutshell. Cirpass Project. 2024.
