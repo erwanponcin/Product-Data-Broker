@@ -1,0 +1,32 @@
+services:
+  mysql:
+    image: mysql:8
+    container_name: mysql_db
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: products
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./data/MySql/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+      - ./data/MySql/generated_products.csv:/var/lib/mysql-files/generated_products.csv:rw
+
+
+  mongo:
+    image: mongo:6
+    container_name: mongo_db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+      MONGO_INITDB_DATABASE: products_datas
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+      - ./data/Mongo:/docker-entrypoint-initdb.d:ro
+      - ./data/Mongo:/data/import:ro 
+
+volumes:
+  mysql_data:
+  mongo_data:

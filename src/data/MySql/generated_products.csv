@@ -1,4 +1,4 @@
-id,code,name,category,price_per_tonne,stock_tonnes
+id,code,name,category,price_per_tonne,stock_tonne
 1,NEOOXI-001,Neodymium Oxide,Rare Earth,4657.93,9720
 2,IROOREFIN-002,Iron Ore Fines,Iron Ore,3846.3,4690
 3,MAG-003,High-Purity Magnesium,Specialty Metal,3034.44,3987
