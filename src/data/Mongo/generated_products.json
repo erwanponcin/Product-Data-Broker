@@ -1,6 +1,6 @@
 [
   {
-    "product_code": "IROORELUM-001",
+    "code": "IROORELUM-001",
     "batch_id": "BATCH-0001",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-002",
+    "code": "FERMAG-002",
     "batch_id": "BATCH-0002",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-003",
+    "code": "TITSPO-003",
     "batch_id": "BATCH-0003",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-004",
+    "code": "TITSPO-004",
     "batch_id": "BATCH-0004",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-005",
+    "code": "TITSPO-005",
     "batch_id": "BATCH-0005",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-006",
+    "code": "IROORELUM-006",
     "batch_id": "BATCH-0006",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-007",
+    "code": "TEROXI-007",
     "batch_id": "BATCH-0007",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-008",
+    "code": "FERMAG-008",
     "batch_id": "BATCH-0008",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-009",
+    "code": "NEOOXI-009",
     "batch_id": "BATCH-0009",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-010",
+    "code": "DYSMET-010",
     "batch_id": "BATCH-0010",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-011",
+    "code": "TITSPO-011",
     "batch_id": "BATCH-0011",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-012",
+    "code": "DYSMET-012",
     "batch_id": "BATCH-0012",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "product_code": "FERALL-013",
+    "code": "FERALL-013",
     "batch_id": "BATCH-0013",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-014",
+    "code": "TEROXI-014",
     "batch_id": "BATCH-0014",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "product_code": "FERALL-015",
+    "code": "FERALL-015",
     "batch_id": "BATCH-0015",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "product_code": "FERALL-016",
+    "code": "FERALL-016",
     "batch_id": "BATCH-0016",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-017",
+    "code": "FERMAG-017",
     "batch_id": "BATCH-0017",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "product_code": "FERALL-018",
+    "code": "FERALL-018",
     "batch_id": "BATCH-0018",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-019",
+    "code": "NEOOXI-019",
     "batch_id": "BATCH-0019",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-020",
+    "code": "IROOREFIN-020",
     "batch_id": "BATCH-0020",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-021",
+    "code": "DYSMET-021",
     "batch_id": "BATCH-0021",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-022",
+    "code": "IROOREPEL-022",
     "batch_id": "BATCH-0022",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-023",
+    "code": "FERMAG-023",
     "batch_id": "BATCH-0023",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-024",
+    "code": "IROOREFIN-024",
     "batch_id": "BATCH-0024",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "product_code": "MAG-025",
+    "code": "MAG-025",
     "batch_id": "BATCH-0025",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-026",
+    "code": "TITSPO-026",
     "batch_id": "BATCH-0026",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "product_code": "MAG-027",
+    "code": "MAG-027",
     "batch_id": "BATCH-0027",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -486,7 +486,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-028",
+    "code": "NEOOXI-028",
     "batch_id": "BATCH-0028",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-029",
+    "code": "FERMAG-029",
     "batch_id": "BATCH-0029",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -522,7 +522,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-030",
+    "code": "TITSPO-030",
     "batch_id": "BATCH-0030",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -540,7 +540,7 @@
     ]
   },
   {
-    "product_code": "FERALL-031",
+    "code": "FERALL-031",
     "batch_id": "BATCH-0031",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -558,7 +558,7 @@
     ]
   },
   {
-    "product_code": "MAG-032",
+    "code": "MAG-032",
     "batch_id": "BATCH-0032",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -576,7 +576,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-033",
+    "code": "FERMAG-033",
     "batch_id": "BATCH-0033",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -594,7 +594,7 @@
     ]
   },
   {
-    "product_code": "MAG-034",
+    "code": "MAG-034",
     "batch_id": "BATCH-0034",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-035",
+    "code": "TEROXI-035",
     "batch_id": "BATCH-0035",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -630,7 +630,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-036",
+    "code": "IROOREFIN-036",
     "batch_id": "BATCH-0036",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -648,7 +648,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-037",
+    "code": "FERMAG-037",
     "batch_id": "BATCH-0037",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -666,7 +666,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-038",
+    "code": "IROORELUM-038",
     "batch_id": "BATCH-0038",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -684,7 +684,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-039",
+    "code": "TITSPO-039",
     "batch_id": "BATCH-0039",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -702,7 +702,7 @@
     ]
   },
   {
-    "product_code": "FERALL-040",
+    "code": "FERALL-040",
     "batch_id": "BATCH-0040",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -720,7 +720,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-041",
+    "code": "IROORELUM-041",
     "batch_id": "BATCH-0041",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -738,7 +738,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-042",
+    "code": "TITSPO-042",
     "batch_id": "BATCH-0042",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -756,7 +756,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-043",
+    "code": "NEOOXI-043",
     "batch_id": "BATCH-0043",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -774,7 +774,7 @@
     ]
   },
   {
-    "product_code": "MAG-044",
+    "code": "MAG-044",
     "batch_id": "BATCH-0044",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -792,7 +792,7 @@
     ]
   },
   {
-    "product_code": "MAG-045",
+    "code": "MAG-045",
     "batch_id": "BATCH-0045",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -810,7 +810,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-046",
+    "code": "NEOOXI-046",
     "batch_id": "BATCH-0046",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -828,7 +828,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-047",
+    "code": "IROOREFIN-047",
     "batch_id": "BATCH-0047",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -846,7 +846,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-048",
+    "code": "IROOREPEL-048",
     "batch_id": "BATCH-0048",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -864,7 +864,7 @@
     ]
   },
   {
-    "product_code": "MAG-049",
+    "code": "MAG-049",
     "batch_id": "BATCH-0049",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -882,7 +882,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-050",
+    "code": "NEOOXI-050",
     "batch_id": "BATCH-0050",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -900,7 +900,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-051",
+    "code": "NEOOXI-051",
     "batch_id": "BATCH-0051",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -918,7 +918,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-052",
+    "code": "NEOOXI-052",
     "batch_id": "BATCH-0052",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -936,7 +936,7 @@
     ]
   },
   {
-    "product_code": "MAG-053",
+    "code": "MAG-053",
     "batch_id": "BATCH-0053",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -954,7 +954,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-054",
+    "code": "IROOREFIN-054",
     "batch_id": "BATCH-0054",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -972,7 +972,7 @@
     ]
   },
   {
-    "product_code": "FERALL-055",
+    "code": "FERALL-055",
     "batch_id": "BATCH-0055",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -990,7 +990,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-056",
+    "code": "DYSMET-056",
     "batch_id": "BATCH-0056",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1008,7 +1008,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-057",
+    "code": "FERMAG-057",
     "batch_id": "BATCH-0057",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1026,7 +1026,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-058",
+    "code": "NEOOXI-058",
     "batch_id": "BATCH-0058",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1044,7 +1044,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-059",
+    "code": "IROORELUM-059",
     "batch_id": "BATCH-0059",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1062,7 +1062,7 @@
     ]
   },
   {
-    "product_code": "FERALL-060",
+    "code": "FERALL-060",
     "batch_id": "BATCH-0060",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1080,7 +1080,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-061",
+    "code": "IROORELUM-061",
     "batch_id": "BATCH-0061",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1098,7 +1098,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-062",
+    "code": "DYSMET-062",
     "batch_id": "BATCH-0062",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1116,7 +1116,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-063",
+    "code": "DYSMET-063",
     "batch_id": "BATCH-0063",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1134,7 +1134,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-064",
+    "code": "NEOOXI-064",
     "batch_id": "BATCH-0064",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1152,7 +1152,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-065",
+    "code": "IROORELUM-065",
     "batch_id": "BATCH-0065",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1170,7 +1170,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-066",
+    "code": "TITSPO-066",
     "batch_id": "BATCH-0066",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1188,7 +1188,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-067",
+    "code": "TITSPO-067",
     "batch_id": "BATCH-0067",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1206,7 +1206,7 @@
     ]
   },
   {
-    "product_code": "FERALL-068",
+    "code": "FERALL-068",
     "batch_id": "BATCH-0068",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1224,7 +1224,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-069",
+    "code": "IROOREFIN-069",
     "batch_id": "BATCH-0069",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1242,7 +1242,7 @@
     ]
   },
   {
-    "product_code": "MAG-070",
+    "code": "MAG-070",
     "batch_id": "BATCH-0070",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1260,7 +1260,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-071",
+    "code": "IROOREFIN-071",
     "batch_id": "BATCH-0071",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1278,7 +1278,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-072",
+    "code": "NEOOXI-072",
     "batch_id": "BATCH-0072",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1296,7 +1296,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-073",
+    "code": "DYSMET-073",
     "batch_id": "BATCH-0073",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1314,7 +1314,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-074",
+    "code": "TITSPO-074",
     "batch_id": "BATCH-0074",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1332,7 +1332,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-075",
+    "code": "IROOREPEL-075",
     "batch_id": "BATCH-0075",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1350,7 +1350,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-076",
+    "code": "FERMAG-076",
     "batch_id": "BATCH-0076",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1368,7 +1368,7 @@
     ]
   },
   {
-    "product_code": "MAG-077",
+    "code": "MAG-077",
     "batch_id": "BATCH-0077",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1386,7 +1386,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-078",
+    "code": "IROOREFIN-078",
     "batch_id": "BATCH-0078",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1404,7 +1404,7 @@
     ]
   },
   {
-    "product_code": "FERALL-079",
+    "code": "FERALL-079",
     "batch_id": "BATCH-0079",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1422,7 +1422,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-080",
+    "code": "TITSPO-080",
     "batch_id": "BATCH-0080",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1440,7 +1440,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-081",
+    "code": "TITSPO-081",
     "batch_id": "BATCH-0081",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1458,7 +1458,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-082",
+    "code": "FERMAG-082",
     "batch_id": "BATCH-0082",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1476,7 +1476,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-083",
+    "code": "TITSPO-083",
     "batch_id": "BATCH-0083",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1494,7 +1494,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-084",
+    "code": "NEOOXI-084",
     "batch_id": "BATCH-0084",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1512,7 +1512,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-085",
+    "code": "NEOOXI-085",
     "batch_id": "BATCH-0085",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1530,7 +1530,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-086",
+    "code": "FERMAG-086",
     "batch_id": "BATCH-0086",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1548,7 +1548,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-087",
+    "code": "IROOREPEL-087",
     "batch_id": "BATCH-0087",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1566,7 +1566,7 @@
     ]
   },
   {
-    "product_code": "FERALL-088",
+    "code": "FERALL-088",
     "batch_id": "BATCH-0088",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1584,7 +1584,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-089",
+    "code": "TEROXI-089",
     "batch_id": "BATCH-0089",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1602,7 +1602,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-090",
+    "code": "IROORELUM-090",
     "batch_id": "BATCH-0090",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1620,7 +1620,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-091",
+    "code": "FERMAG-091",
     "batch_id": "BATCH-0091",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1638,7 +1638,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-092",
+    "code": "DYSMET-092",
     "batch_id": "BATCH-0092",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1656,7 +1656,7 @@
     ]
   },
   {
-    "product_code": "FERALL-093",
+    "code": "FERALL-093",
     "batch_id": "BATCH-0093",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1674,7 +1674,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-094",
+    "code": "IROOREPEL-094",
     "batch_id": "BATCH-0094",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1692,7 +1692,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-095",
+    "code": "TITSPO-095",
     "batch_id": "BATCH-0095",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1710,7 +1710,7 @@
     ]
   },
   {
-    "product_code": "MAG-096",
+    "code": "MAG-096",
     "batch_id": "BATCH-0096",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1728,7 +1728,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-097",
+    "code": "TEROXI-097",
     "batch_id": "BATCH-0097",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1746,7 +1746,7 @@
     ]
   },
   {
-    "product_code": "FERALL-098",
+    "code": "FERALL-098",
     "batch_id": "BATCH-0098",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1764,7 +1764,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-099",
+    "code": "IROORELUM-099",
     "batch_id": "BATCH-0099",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1782,7 +1782,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-100",
+    "code": "IROOREPEL-100",
     "batch_id": "BATCH-0100",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1800,7 +1800,7 @@
     ]
   },
   {
-    "product_code": "MAG-101",
+    "code": "MAG-101",
     "batch_id": "BATCH-0101",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1818,7 +1818,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-102",
+    "code": "IROOREFIN-102",
     "batch_id": "BATCH-0102",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1836,7 +1836,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-103",
+    "code": "TITSPO-103",
     "batch_id": "BATCH-0103",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1854,7 +1854,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-104",
+    "code": "IROORELUM-104",
     "batch_id": "BATCH-0104",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1872,7 +1872,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-105",
+    "code": "IROOREFIN-105",
     "batch_id": "BATCH-0105",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1890,7 +1890,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-106",
+    "code": "FERMAG-106",
     "batch_id": "BATCH-0106",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1908,7 +1908,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-107",
+    "code": "NEOOXI-107",
     "batch_id": "BATCH-0107",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1926,7 +1926,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-108",
+    "code": "NEOOXI-108",
     "batch_id": "BATCH-0108",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1944,7 +1944,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-109",
+    "code": "TITSPO-109",
     "batch_id": "BATCH-0109",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1962,7 +1962,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-110",
+    "code": "FERMAG-110",
     "batch_id": "BATCH-0110",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1980,7 +1980,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-111",
+    "code": "IROOREFIN-111",
     "batch_id": "BATCH-0111",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -1998,7 +1998,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-112",
+    "code": "IROORELUM-112",
     "batch_id": "BATCH-0112",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2016,7 +2016,7 @@
     ]
   },
   {
-    "product_code": "MAG-113",
+    "code": "MAG-113",
     "batch_id": "BATCH-0113",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2034,7 +2034,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-114",
+    "code": "DYSMET-114",
     "batch_id": "BATCH-0114",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2052,7 +2052,7 @@
     ]
   },
   {
-    "product_code": "MAG-115",
+    "code": "MAG-115",
     "batch_id": "BATCH-0115",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2070,7 +2070,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-116",
+    "code": "TEROXI-116",
     "batch_id": "BATCH-0116",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2088,7 +2088,7 @@
     ]
   },
   {
-    "product_code": "FERALL-117",
+    "code": "FERALL-117",
     "batch_id": "BATCH-0117",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2106,7 +2106,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-118",
+    "code": "DYSMET-118",
     "batch_id": "BATCH-0118",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2124,7 +2124,7 @@
     ]
   },
   {
-    "product_code": "MAG-119",
+    "code": "MAG-119",
     "batch_id": "BATCH-0119",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2142,7 +2142,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-120",
+    "code": "IROOREPEL-120",
     "batch_id": "BATCH-0120",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2160,7 +2160,7 @@
     ]
   },
   {
-    "product_code": "FERALL-121",
+    "code": "FERALL-121",
     "batch_id": "BATCH-0121",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2178,7 +2178,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-122",
+    "code": "FERMAG-122",
     "batch_id": "BATCH-0122",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2196,7 +2196,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-123",
+    "code": "TEROXI-123",
     "batch_id": "BATCH-0123",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2214,7 +2214,7 @@
     ]
   },
   {
-    "product_code": "MAG-124",
+    "code": "MAG-124",
     "batch_id": "BATCH-0124",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2232,7 +2232,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-125",
+    "code": "FERMAG-125",
     "batch_id": "BATCH-0125",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2250,7 +2250,7 @@
     ]
   },
   {
-    "product_code": "MAG-126",
+    "code": "MAG-126",
     "batch_id": "BATCH-0126",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2268,7 +2268,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-127",
+    "code": "IROOREPEL-127",
     "batch_id": "BATCH-0127",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2286,7 +2286,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-128",
+    "code": "TEROXI-128",
     "batch_id": "BATCH-0128",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2304,7 +2304,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-129",
+    "code": "FERMAG-129",
     "batch_id": "BATCH-0129",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2322,7 +2322,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-130",
+    "code": "TITSPO-130",
     "batch_id": "BATCH-0130",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2340,7 +2340,7 @@
     ]
   },
   {
-    "product_code": "FERALL-131",
+    "code": "FERALL-131",
     "batch_id": "BATCH-0131",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2358,7 +2358,7 @@
     ]
   },
   {
-    "product_code": "MAG-132",
+    "code": "MAG-132",
     "batch_id": "BATCH-0132",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2376,7 +2376,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-133",
+    "code": "FERMAG-133",
     "batch_id": "BATCH-0133",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2394,7 +2394,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-134",
+    "code": "TITSPO-134",
     "batch_id": "BATCH-0134",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2412,7 +2412,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-135",
+    "code": "TITSPO-135",
     "batch_id": "BATCH-0135",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2430,7 +2430,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-136",
+    "code": "FERMAG-136",
     "batch_id": "BATCH-0136",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2448,7 +2448,7 @@
     ]
   },
   {
-    "product_code": "FERALL-137",
+    "code": "FERALL-137",
     "batch_id": "BATCH-0137",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2466,7 +2466,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-138",
+    "code": "IROORELUM-138",
     "batch_id": "BATCH-0138",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2484,7 +2484,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-139",
+    "code": "FERMAG-139",
     "batch_id": "BATCH-0139",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2502,7 +2502,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-140",
+    "code": "IROORELUM-140",
     "batch_id": "BATCH-0140",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2520,7 +2520,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-141",
+    "code": "IROORELUM-141",
     "batch_id": "BATCH-0141",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2538,7 +2538,7 @@
     ]
   },
   {
-    "product_code": "FERALL-142",
+    "code": "FERALL-142",
     "batch_id": "BATCH-0142",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2556,7 +2556,7 @@
     ]
   },
   {
-    "product_code": "MAG-143",
+    "code": "MAG-143",
     "batch_id": "BATCH-0143",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2574,7 +2574,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-144",
+    "code": "NEOOXI-144",
     "batch_id": "BATCH-0144",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2592,7 +2592,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-145",
+    "code": "TEROXI-145",
     "batch_id": "BATCH-0145",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2610,7 +2610,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-146",
+    "code": "IROOREFIN-146",
     "batch_id": "BATCH-0146",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2628,7 +2628,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-147",
+    "code": "DYSMET-147",
     "batch_id": "BATCH-0147",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2646,7 +2646,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-148",
+    "code": "FERMAG-148",
     "batch_id": "BATCH-0148",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2664,7 +2664,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-149",
+    "code": "TITSPO-149",
     "batch_id": "BATCH-0149",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2682,7 +2682,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-150",
+    "code": "TEROXI-150",
     "batch_id": "BATCH-0150",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2700,7 +2700,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-151",
+    "code": "IROOREFIN-151",
     "batch_id": "BATCH-0151",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2718,7 +2718,7 @@
     ]
   },
   {
-    "product_code": "MAG-152",
+    "code": "MAG-152",
     "batch_id": "BATCH-0152",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2736,7 +2736,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-153",
+    "code": "TITSPO-153",
     "batch_id": "BATCH-0153",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2754,7 +2754,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-154",
+    "code": "NEOOXI-154",
     "batch_id": "BATCH-0154",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2772,7 +2772,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-155",
+    "code": "IROOREPEL-155",
     "batch_id": "BATCH-0155",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2790,7 +2790,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-156",
+    "code": "TEROXI-156",
     "batch_id": "BATCH-0156",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2808,7 +2808,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-157",
+    "code": "TEROXI-157",
     "batch_id": "BATCH-0157",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2826,7 +2826,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-158",
+    "code": "TITSPO-158",
     "batch_id": "BATCH-0158",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2844,7 +2844,7 @@
     ]
   },
   {
-    "product_code": "MAG-159",
+    "code": "MAG-159",
     "batch_id": "BATCH-0159",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2862,7 +2862,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-160",
+    "code": "IROOREPEL-160",
     "batch_id": "BATCH-0160",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2880,7 +2880,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-161",
+    "code": "DYSMET-161",
     "batch_id": "BATCH-0161",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2898,7 +2898,7 @@
     ]
   },
   {
-    "product_code": "MAG-162",
+    "code": "MAG-162",
     "batch_id": "BATCH-0162",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2916,7 +2916,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-163",
+    "code": "IROOREFIN-163",
     "batch_id": "BATCH-0163",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2934,7 +2934,7 @@
     ]
   },
   {
-    "product_code": "FERALL-164",
+    "code": "FERALL-164",
     "batch_id": "BATCH-0164",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2952,7 +2952,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-165",
+    "code": "NEOOXI-165",
     "batch_id": "BATCH-0165",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2970,7 +2970,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-166",
+    "code": "IROORELUM-166",
     "batch_id": "BATCH-0166",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -2988,7 +2988,7 @@
     ]
   },
   {
-    "product_code": "MAG-167",
+    "code": "MAG-167",
     "batch_id": "BATCH-0167",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3006,7 +3006,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-168",
+    "code": "IROOREPEL-168",
     "batch_id": "BATCH-0168",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3024,7 +3024,7 @@
     ]
   },
   {
-    "product_code": "FERALL-169",
+    "code": "FERALL-169",
     "batch_id": "BATCH-0169",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3042,7 +3042,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-170",
+    "code": "FERMAG-170",
     "batch_id": "BATCH-0170",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3060,7 +3060,7 @@
     ]
   },
   {
-    "product_code": "FERALL-171",
+    "code": "FERALL-171",
     "batch_id": "BATCH-0171",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3078,7 +3078,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-172",
+    "code": "IROOREFIN-172",
     "batch_id": "BATCH-0172",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3096,7 +3096,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-173",
+    "code": "FERMAG-173",
     "batch_id": "BATCH-0173",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3114,7 +3114,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-174",
+    "code": "TEROXI-174",
     "batch_id": "BATCH-0174",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3132,7 +3132,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-175",
+    "code": "NEOOXI-175",
     "batch_id": "BATCH-0175",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3150,7 +3150,7 @@
     ]
   },
   {
-    "product_code": "MAG-176",
+    "code": "MAG-176",
     "batch_id": "BATCH-0176",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3168,7 +3168,7 @@
     ]
   },
   {
-    "product_code": "NEOOXI-177",
+    "code": "NEOOXI-177",
     "batch_id": "BATCH-0177",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3186,7 +3186,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-178",
+    "code": "TITSPO-178",
     "batch_id": "BATCH-0178",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3204,7 +3204,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-179",
+    "code": "DYSMET-179",
     "batch_id": "BATCH-0179",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3222,7 +3222,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-180",
+    "code": "FERMAG-180",
     "batch_id": "BATCH-0180",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3240,7 +3240,7 @@
     ]
   },
   {
-    "product_code": "FERALL-181",
+    "code": "FERALL-181",
     "batch_id": "BATCH-0181",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3258,7 +3258,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-182",
+    "code": "TITSPO-182",
     "batch_id": "BATCH-0182",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3276,7 +3276,7 @@
     ]
   },
   {
-    "product_code": "FERALL-183",
+    "code": "FERALL-183",
     "batch_id": "BATCH-0183",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3294,7 +3294,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-184",
+    "code": "IROOREFIN-184",
     "batch_id": "BATCH-0184",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3312,7 +3312,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-185",
+    "code": "TITSPO-185",
     "batch_id": "BATCH-0185",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3330,7 +3330,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-186",
+    "code": "IROORELUM-186",
     "batch_id": "BATCH-0186",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3348,7 +3348,7 @@
     ]
   },
   {
-    "product_code": "MAG-187",
+    "code": "MAG-187",
     "batch_id": "BATCH-0187",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3366,7 +3366,7 @@
     ]
   },
   {
-    "product_code": "MAG-188",
+    "code": "MAG-188",
     "batch_id": "BATCH-0188",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3384,7 +3384,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-189",
+    "code": "TITSPO-189",
     "batch_id": "BATCH-0189",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3402,7 +3402,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-190",
+    "code": "FERMAG-190",
     "batch_id": "BATCH-0190",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3420,7 +3420,7 @@
     ]
   },
   {
-    "product_code": "FERALL-191",
+    "code": "FERALL-191",
     "batch_id": "BATCH-0191",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3438,7 +3438,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-192",
+    "code": "IROOREFIN-192",
     "batch_id": "BATCH-0192",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3456,7 +3456,7 @@
     ]
   },
   {
-    "product_code": "TEROXI-193",
+    "code": "TEROXI-193",
     "batch_id": "BATCH-0193",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3474,7 +3474,7 @@
     ]
   },
   {
-    "product_code": "IROOREFIN-194",
+    "code": "IROOREFIN-194",
     "batch_id": "BATCH-0194",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3492,7 +3492,7 @@
     ]
   },
   {
-    "product_code": "IROOREPEL-195",
+    "code": "IROOREPEL-195",
     "batch_id": "BATCH-0195",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3510,7 +3510,7 @@
     ]
   },
   {
-    "product_code": "TITSPO-196",
+    "code": "TITSPO-196",
     "batch_id": "BATCH-0196",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3528,7 +3528,7 @@
     ]
   },
   {
-    "product_code": "FERMAG-197",
+    "code": "FERMAG-197",
     "batch_id": "BATCH-0197",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3546,7 +3546,7 @@
     ]
   },
   {
-    "product_code": "DYSMET-198",
+    "code": "DYSMET-198",
     "batch_id": "BATCH-0198",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3564,7 +3564,7 @@
     ]
   },
   {
-    "product_code": "IROORELUM-199",
+    "code": "IROORELUM-199",
     "batch_id": "BATCH-0199",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
@@ -3582,7 +3582,7 @@
     ]
   },
   {
-    "product_code": "FERALL-200",
+    "code": "FERALL-200",
     "batch_id": "BATCH-0200",
     "origin": "Lule\u00e5 Industrial Park",
     "composition": {
