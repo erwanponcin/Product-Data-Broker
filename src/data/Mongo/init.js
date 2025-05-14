@@ -1,7 +1,7 @@
 const fs = require('fs');
-const path = '/data/import/generated_products.json'; 
+const path = '/data/import/melting.json';
 
-const products = JSON.parse(fs.readFileSync(path, 'utf8'));
+const meltingData = JSON.parse(fs.readFileSync(path, 'utf8'));
 db = db.getSiblingDB('products_datas');
-db.iron_products.drop(); 
-db.iron_products.insertMany(products);
+db.melting.drop();
+db.melting.insertMany(meltingData);

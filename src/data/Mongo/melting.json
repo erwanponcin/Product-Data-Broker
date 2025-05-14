@@ -1,0 +1,302 @@
+[
+    {
+        "batch_id": "BATCH_0001",
+        "material": "Steel",
+        "temperature": 1470,
+        "production_date": "2024-10-29 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0002",
+        "material": "Copper",
+        "temperature": 1528,
+        "production_date": "2024-06-17 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0003",
+        "material": "Iron",
+        "temperature": 1423,
+        "production_date": "2025-03-17 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0004",
+        "material": "Iron",
+        "temperature": 1498,
+        "production_date": "2024-09-03 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0005",
+        "material": "Iron",
+        "temperature": 1573,
+        "production_date": "2024-12-22 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0006",
+        "material": "Iron",
+        "temperature": 1540,
+        "production_date": "2024-06-11 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0007",
+        "material": "Steel",
+        "temperature": 1554,
+        "production_date": "2025-04-09 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0008",
+        "material": "Copper",
+        "temperature": 1557,
+        "production_date": "2025-03-26 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0009",
+        "material": "Steel",
+        "temperature": 1520,
+        "production_date": "2024-10-12 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0010",
+        "material": "Copper",
+        "temperature": 1402,
+        "production_date": "2025-03-05 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0011",
+        "material": "Steel",
+        "temperature": 1444,
+        "production_date": "2025-04-24 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0012",
+        "material": "Iron",
+        "temperature": 1413,
+        "production_date": "2024-08-19 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0013",
+        "material": "Copper",
+        "temperature": 1520,
+        "production_date": "2024-11-17 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0014",
+        "material": "Steel",
+        "temperature": 1496,
+        "production_date": "2024-05-15 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0015",
+        "material": "Steel",
+        "temperature": 1567,
+        "production_date": "2025-03-09 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0016",
+        "material": "Iron",
+        "temperature": 1530,
+        "production_date": "2024-06-03 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0017",
+        "material": "Steel",
+        "temperature": 1578,
+        "production_date": "2025-02-15 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0018",
+        "material": "Steel",
+        "temperature": 1558,
+        "production_date": "2025-05-12 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0019",
+        "material": "Copper",
+        "temperature": 1573,
+        "production_date": "2024-12-23 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0020",
+        "material": "Copper",
+        "temperature": 1437,
+        "production_date": "2025-03-08 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0021",
+        "material": "Copper",
+        "temperature": 1456,
+        "production_date": "2024-08-27 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0022",
+        "material": "Steel",
+        "temperature": 1528,
+        "production_date": "2024-12-20 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0023",
+        "material": "Copper",
+        "temperature": 1460,
+        "production_date": "2025-04-10 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0024",
+        "material": "Copper",
+        "temperature": 1409,
+        "production_date": "2025-01-08 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0025",
+        "material": "Steel",
+        "temperature": 1454,
+        "production_date": "2025-02-04 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0026",
+        "material": "Iron",
+        "temperature": 1469,
+        "production_date": "2024-12-27 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0027",
+        "material": "Iron",
+        "temperature": 1500,
+        "production_date": "2024-07-27 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0028",
+        "material": "Copper",
+        "temperature": 1418,
+        "production_date": "2024-12-27 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0029",
+        "material": "Iron",
+        "temperature": 1407,
+        "production_date": "2024-06-07 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0030",
+        "material": "Steel",
+        "temperature": 1556,
+        "production_date": "2025-02-08 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0031",
+        "material": "Steel",
+        "temperature": 1419,
+        "production_date": "2024-11-27 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0032",
+        "material": "Copper",
+        "temperature": 1584,
+        "production_date": "2025-03-17 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0033",
+        "material": "Copper",
+        "temperature": 1423,
+        "production_date": "2024-07-29 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0034",
+        "material": "Iron",
+        "temperature": 1403,
+        "production_date": "2024-11-03 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0035",
+        "material": "Steel",
+        "temperature": 1428,
+        "production_date": "2025-01-08 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0036",
+        "material": "Iron",
+        "temperature": 1441,
+        "production_date": "2024-08-08 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0037",
+        "material": "Iron",
+        "temperature": 1452,
+        "production_date": "2025-01-30 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0038",
+        "material": "Iron",
+        "temperature": 1545,
+        "production_date": "2024-08-05 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0039",
+        "material": "Copper",
+        "temperature": 1417,
+        "production_date": "2025-02-16 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0040",
+        "material": "Copper",
+        "temperature": 1414,
+        "production_date": "2025-03-21 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0041",
+        "material": "Copper",
+        "temperature": 1404,
+        "production_date": "2024-10-29 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0042",
+        "material": "Copper",
+        "temperature": 1528,
+        "production_date": "2025-03-29 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0043",
+        "material": "Iron",
+        "temperature": 1450,
+        "production_date": "2024-07-26 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0044",
+        "material": "Iron",
+        "temperature": 1455,
+        "production_date": "2024-11-01 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0045",
+        "material": "Steel",
+        "temperature": 1412,
+        "production_date": "2025-04-05 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0046",
+        "material": "Copper",
+        "temperature": 1527,
+        "production_date": "2024-09-26 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0047",
+        "material": "Steel",
+        "temperature": 1552,
+        "production_date": "2025-01-19 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0048",
+        "material": "Copper",
+        "temperature": 1558,
+        "production_date": "2024-07-19 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0049",
+        "material": "Steel",
+        "temperature": 1578,
+        "production_date": "2025-04-12 10:51:46"
+    },
+    {
+        "batch_id": "BATCH_0050",
+        "material": "Iron",
+        "temperature": 1508,
+        "production_date": "2024-10-11 10:51:46"
+    }
+]
